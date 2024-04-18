@@ -1,4 +1,4 @@
-<div><img height="400" width='100%' src="https://as1.ftcdn.net/v2/jpg/04/46/55/98/1000_F_446559828_WgyA9okPOa1k2jPi1uzsFwcrXEAx8yWb.jpg"></div>
+<div><img height="400" width='500' src="https://as1.ftcdn.net/v2/jpg/04/46/55/98/1000_F_446559828_WgyA9okPOa1k2jPi1uzsFwcrXEAx8yWb.jpg"></div>
 <h1 align="center">Hi 👋, I'm Klavito</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" alt="Coding" width="400">
