@@ -1,17 +1,17 @@
 <div align="center"><img height="300" width='700' src="https://as1.ftcdn.net/v2/jpg/04/46/55/98/1000_F_446559828_WgyA9okPOa1k2jPi1uzsFwcrXEAx8yWb.jpg"></div>
 <h1 align="center">Hi 👋, I'm Klavito</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 <img align="right" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klavitooftech&label=Profile%20views&color=0e75b6&style=flat" alt="klavitooftech" /> </p>
 
 <p align="left"> <a href="https://twitter.com/klav_ito" target="blank"><img src="https://img.shields.io/twitter/follow/klav_ito?logo=twitter&style=for-the-badge" alt="klav_ito" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and ReactJS**
+- 🌱 I’m currently learning **Javascript, Python and ReactJS**
 
-- 👯 I’m looking to collaborate on **FrontEnd Projects**
+- 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **ML**
 
 - 📫 How to reach me **ejibeclaver0@gmail.com**
 
